@@ -1,4 +1,4 @@
-# Object-recognition-using-ResNet50
+# Object-recognition-using-ResNet50 
 
 This project focuses on image classification of the CIFAR-10 dataset, utilizing both a simple neural network and a deep learning model with transfer learning using ResNet50. The CIFAR-10 dataset consists of 60,000 32x32 color images in 10 classes, with 6,000 images per class.
 
